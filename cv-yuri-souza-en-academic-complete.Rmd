@@ -83,6 +83,7 @@ Piracicaba, SP, Brazil
 2022 - Present
 
 **Thesis**: ShinyApp application as a tool for ecological data management, analyses, visualization, and decision making
+**Advisor**: Dr. [Walter Mesquita Filho](https://scholar.google.com/citations?user=T0d2ZS4AAAAJ&hl=en)
 
 ### São Paulo State University (UNESP)
 
@@ -104,7 +105,7 @@ Rio Claro, SP, Brazil
 2013 - 2016
 
 **Thesis**: Uma análise de modelagem do ciclo hidrológico e impactos do aumento da concentração de CO2 atmosférico na Amazônia ([UNESP Libraries](https://repositorio.unesp.br/handle/11449/155815))  
-**Advisor**: Dr. David Lapola
+**Advisor**: Dr. [David Montenegro Lapola](https://aimesproject.org/david-lapola/)
 
 Complementary Education {data-icon=chalkboard}
 --------------------------------------------------------------------------------
@@ -197,7 +198,7 @@ Rio Claro, SP, Brazil
 2020 - 2021
 
 **Title**: 	The effects of defaunation on carbon stock in plant functional groups in the Atlantic forest  
-**Aim**: 1-Access the carbon content in plant growth form saplings in different growth stages; Ivestigate how defaunation might affect the carbon content
+**Aim**: 1- Access the carbon content in plant growth form saplings in different growth stages; 2- Investigate how Defaunation might affect plant carbon content
 
 ### Master Graduate Scholarship
 
@@ -210,7 +211,7 @@ Rio Claro, SP, Brazil
 2018 - 2021
 
 **Title**: Large mammalian herbivores modulate plant growth form diversity in a tropical rainforest  
-**Aim**: 1-Investigate how the extinction of large mammalian herbivores might affect plant growth form community by changes plant composition, interactions and diversity; 2- Address the consequences of these changes to the tropical forest
+**Aim**: 1- Investigate how the extinction of large mammalian herbivores might affect plant growth form community by changes plant composition, interactions and diversity; 2- Address the consequences of these changes to the tropical forest
 
 ### Scientific Initiation Scholarship
 
@@ -223,7 +224,7 @@ Rio Claro, SP, Brazil
 2016
 
 **Title**: An analysis modeling of the hydrological cycle and impacts of increased atmospheric CO2 concentration in the Amazon  
-**Aim**: 1-Validation and calibration of a water balance model using updated input data; 2- application of this model in the Amazon forest, in line with the [AmazonFACE](https://amazonface.inpa.gov.br/en/index.php) project, seeking to improve understanding of the effects of increased CO2 in the water dynamics of this biome
+**Aim**: 1- Validation and calibration of a water balance model using updated input data; 2- application of this model in the Amazon forest, in line with the [AmazonFACE](https://amazonface.inpa.gov.br/en/index.php) project, seeking to improve understanding of the effects of increased CO2 in the water dynamics of this biome
 
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
