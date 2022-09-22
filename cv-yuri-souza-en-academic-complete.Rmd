@@ -82,7 +82,7 @@ Piracicaba, SP, Brazil
 
 2022 - Present
 
-**Thesis**: ShinyApp application as a tool for ecological data management, analyses, visualization, and decision making
+**Thesis**: ShinyApp application as a tool for ecological data management, analyses, visualization, and digital decision making approach ([Aplication Result](https://souzayuri.shinyapps.io/reseedproject))                                       
 **Advisor**: Dr. [Walter Mesquita Filho](https://scholar.google.com/citations?user=T0d2ZS4AAAAJ&hl=en)
 
 ### São Paulo State University (UNESP)
@@ -300,6 +300,19 @@ Botucatu, SP, Brazil
 ::: concise
 - GIS tutorial
 - Map production 
+:::
+
+### Environmental consultant
+
+[Itirapina Ecological Station](https://www.infraestruturameioambiente.sp.gov.br/institutoflorestal/areas-protegidas/estacoes-ecologicas/itirapina/)
+
+Itirapina, SP, Brazil
+
+2017
+
+::: concise
+- GIS analist
+- Invasive specie controlling 
 :::
 
 Teaching Experience {data-icon=chalkboard-teacher}
