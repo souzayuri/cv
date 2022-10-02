@@ -464,7 +464,7 @@ DOI: [10.18066/revistaunivap.v22i40.477](http://dx.doi.org/10.18066/revistauniva
 
 Disclaimer {#disclaimer}
 ------------------------------------
-<i class='fas fa-file-pdf'></i> [Download PDF](https://github.com/souzayuri/cv/raw/main/cv-yuri-souza-en-academic-complete.pdf)
+<i class='fas fa-file-pdf'></i> [Download PDF](https://github.com/souzayuri/cv/raw/main/cv-yuri-souza.pdf)
 <br>
 
 `CV by` [**`pagedown`**](https://github.com/rstudio/pagedown) R package.  
