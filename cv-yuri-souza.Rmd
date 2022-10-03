@@ -27,7 +27,7 @@ Contact {#contact}
 Themes {#themes}
 --------------------------------------------------------------------------------
 
-- `r icons::fontawesome("paw")` `Convervation biology`
+- `r icons::fontawesome("paw")` `Conservation biology`
 - `r icons::fontawesome("globe-americas")` `Community Ecology`
 - `r icons::fontawesome("seedling")` `Population Ecology`
 - `r icons::fontawesome("mountain")` `Landscape Ecology`
@@ -44,7 +44,7 @@ Skills {#skills}
 - `r icons::academicons("academia")` [`ArcGis (Intermediate`)](https://qgis.org/en/site/)
 - `r icons::fontawesome("python")` [`python (Basic)`](https://www.python.org/)
 - `r icons::fontawesome("code-branch")` [`git (Basic)`](https://git-scm.com/)
-- `r icons::fontawesome("database")` [`MySQL (Basic)`](https://www.mysql.com/)
+- `r icons::fontawesome("database")` [`SQL (Basic)`](https://en.wikipedia.org/wiki/SQL)
 
 Languages {#languages}
 --------------------------------------------------------------------------------
