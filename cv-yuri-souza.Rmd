@@ -49,7 +49,7 @@ Skills {#skills}
 Languages {#languages}
 --------------------------------------------------------------------------------
 - Portuguese (Native speaker)
-- English (Advanced)
+- English (Fluent)
 
 Main
 ================================================================================
@@ -80,7 +80,7 @@ Miami, FL, United States
 
 Piracicaba, SP, Brazil
 
-2022 - Present
+2021 - 2023
 
 **Thesis**: ShinyApp application as a tool for ecological data management, analyses, visualization, and digital decision making approach ([Application Result](https://souzayuri.shinyapps.io/reseedproject))                                       
 **Advisor**: Dr. [Walter Mesquita Filho](https://scholar.google.com/citations?user=T0d2ZS4AAAAJ&hl=en)
