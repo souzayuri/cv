@@ -45,6 +45,7 @@ Skills {#skills}
 - `r icons::fontawesome("python")` [`python (Basic)`](https://www.python.org/)
 - `r icons::fontawesome("code-branch")` [`git (Basic)`](https://git-scm.com/)
 - `r icons::fontawesome("database")` [`SQL (Basic)`](https://en.wikipedia.org/wiki/SQL)
+- `r icons::fontawesome("cubes")` [`Adobe Illustrator (Advanced)`](https://en.wikipedia.org/wiki/Adobe_Illustrator)
 
 Languages {#languages}
 --------------------------------------------------------------------------------
