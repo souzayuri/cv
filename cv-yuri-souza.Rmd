@@ -345,12 +345,25 @@ N/A
 
 N/A
 
+### 03. Ecology Lab
+
+Teacher Assistant 
+*Undergraduate students in Biology*
+Written course focused in ecology fieldwork and data analyses - University of Miami (UM)
+
+United States, FL, Miami
+
+2023-2024
+
+::: concise
+- 336 h
+:::
+
 ### 02. R-based statistics applied to ecology fieldwork 
 
 Teacher Assistant 
-*Undergraduate in Ecology*
-Fieldwork Ecology classes
-São Paulo State University (UNESP)
+*Undergraduate students in Ecology*
+Fieldwork Ecology classes - São Paulo State University (UNESP)
 
 Rio Claro, SP, Brazil
 
@@ -363,9 +376,8 @@ Rio Claro, SP, Brazil
 ### 01. Savanna fieldwork sample design experiment
 
 Teacher Assistant 
-*Undergraduate in Environmental Science*
-Biogeography for Environmental Management and Analysis classes
-Federal University of São Carlos (UFSCar)
+*Undergraduate studentsin Environmental Science*
+Biogeography for Environmental Management and Analysis classes - Federal University of São Carlos (UFSCar)
 
 São Carlos, SP, Brazil
 
